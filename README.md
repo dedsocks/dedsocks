@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shaun.
 
-<!--
-**dedsocks/dedsocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**languages**
+- C, C++
+- Python
+- JavaScript
+- PHP
+- Java
+- SQL
+- Bash
+- GDscript
+- Lua *(learning)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**web**
+- HTML, CSS, JS
+- React *(learning)*
+
+**tools**
+- Git, GitHub
+- Godot
+- SQL, MariaDB
+
+**os**
+- Linux (Arch, Ubuntu)
+- Windows
+
+---
